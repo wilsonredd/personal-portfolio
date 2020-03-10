@@ -19,16 +19,13 @@
                     <p>BLOG</p>
                 </div>
             </router-link>
-
         </div>
     </div>
     <router-view />
-    <!-- Footer -->
     <div class="footer">
         <a href="https://github.com/wilsonredd/personal-portfolio.git" target="_blank">
             https://github.com/wilsonredd/personal-portfolio.git </a>
     </div>
-    <!-- Footer -->
 </div>
 </template>
 
@@ -46,7 +43,7 @@
     grid-column-gap: 5px;
     grid-template-areas: "brand nav";
     padding: 20px 5px 20px 5px;
-    margin: 0px 5px 0px 5px;
+    margin: 0px 5px 10px 5px;
     border-bottom: 1px solid #e3e3e3;
 }
 
@@ -96,6 +93,7 @@ ul {
 }
 
 .footer {
+    margin: 0;
     padding: 5px;
     text-align: center;
 }
