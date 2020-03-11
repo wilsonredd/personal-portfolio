@@ -17,8 +17,7 @@
 
             <p>I have been married for almost four years, have one super cute baby girl,
                 and love spending time with my 7 brothers and sisters (and two parents).
-                I grew up in Idaho, so whatever stereotypes you now have about me could
-                possiblt be true.</p>
+                I grew up in Idaho and love to go back visit whenever occassion allows.</p>
 
             <p>I am a lifelong learner. I enjoy reading "boring," non-fiction books and
                 watching the news. I would love to become a construction crane operator or a
@@ -74,6 +73,7 @@ h1 {
     font-family: 'Raleway', sans-serif;
 }
 
+
 .header>h2 {
     font-family: 'Lato', sans-serif;
 }
@@ -94,7 +94,7 @@ h1 {
 
 .my-work {
     text-align: center;
-    margin: 30px 10px 10px 10px;
+    margin: 30px 10px 30px 10px;
 }
 
 .my-work>hr {
